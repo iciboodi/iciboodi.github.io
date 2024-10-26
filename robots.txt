@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iciboodi.github.io/sitemap_index.iciboodi
